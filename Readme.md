@@ -1,5 +1,5 @@
 #demo
 
-i got it. i learnt git.
+i got it.
 
 yes you are correct.
