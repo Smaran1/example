@@ -28,4 +28,5 @@ so in brief the step is as follows:
 okay now lets practice how to pull changes from the repository / github
 i made the changes i saved it here now pull this edits from your computer
 
-yes i dit it! I pulled it from the website.
+yes i dit it! I pulled it from the repository.
+now back from local to repository.
